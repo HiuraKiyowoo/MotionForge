@@ -111,6 +111,10 @@ hukum di bawah. Sebelum menyerahkan, cek KODE, bukan perasaan:
 
 Gagal satu poin saja → rombak sebelum ditunjukkan ke user.
 
+## Gallery sebagai pemilih gaya
+
+Bila user meminta referensi visual atau belum menentukan style, baca `references/gallery.md`. Gunakan gallery upstream sebagai menu arah visual—grainy gradient, kinetic colorblock, SaaS UI tour, flat vector, continuous action, cartoon stage, flat pop with photos, white catalog, visual journalism, vintage sketch, cartoon collage, dan kombinasi—lalu pilih satu atau berikan tiga kandidat. Gallery adalah prinsip look/ritme/produksi, bukan template: jangan menyalin palette, font, layout, copy, urutan scene, karakter, crop foto, atau signature moment. Setelah memilih arah, tulis style brief dan pilih starter yang sesuai, lalu jalankan anti-PPT checks.
+
 ## Jenis pekerjaan yang dicakup
 
 Skill ini untuk motion graphic web secara UMUM. Explainer hanya salah satu
@@ -534,6 +538,7 @@ dan buat layer dari belakang ke depan. Build 10 panggung ≈ 1 jam, 0 kredit.
 | `references/ae-bridge-higgsfield.md` | BRIDGE: membangun kartun panggung langsung di AE lewat MCP Higgsfield — batas bridge, jebakan (null 960,540; parent ke CAM berkeyframe; reorder rusak), arsitektur CAM per panggung, rig native, relay contact sheet, penyerahan |
 | `scripts/ae/bridge/aset-svg.py`, `svg2png.cjs`, `rig-tokoh.py` | BRIDGE: aset ilustrasi dari kode → SVG + manifest → PNG 2× (puppeteer); generator ±90 op `ae_batch` untuk satu karakter bersendi |
 | `references/anti-ppt.md` | sebelum mendesain adegan |
+| `references/gallery.md` | saat user meminta contoh visual, belum menentukan style, atau ingin memilih arah gallery; menu 12 arah + mapping ke starter |
 | `references/opener-konsep.md` | OPENER/PROMO sebelum rundown: tiga kandidat konsep, menu 19 konsep (termasuk estafet benda, pamer sistem brand, klaim → cara → hasil, ekosistem UI hidup, pop flat berfoto, menembus bentuk bergradien, dan tur produk berselang klaim, semuanya diturunkan dari layanan/aset/produk brand), panduan layout-warna-ritme, panduan animasi UI untuk app/SaaS, panduan foto dalam opener (input user / generate via MCP), menu fitur, pembuka, penutup, transisi tanpa cut yang dibawa objek, sidik jari struktur — mencegah kerangka template |
 | `references/explainer.md` | bila yang diminta explainer/video penjelasan (kartun+VO, jurnalisme visual foto, katalog putih, sketsa vintage, atau aksi kontinu; default 16:9, 9:16 hanya bila diminta) |
 | `references/architecture.md` | saat scaffold / butuh alasan di balik struktur |

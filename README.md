@@ -88,6 +88,10 @@ MotionForge/
 
 Struktur `skills/` memungkinkan repo ini berkembang menjadi katalog skill dan preset motion yang dapat dipilih dari UI `npx skills`.
 
+## Gallery gaya visual
+
+MotionForge menyertakan pemetaan style dari [Bang Motion gallery](https://github.com/bangtutorial/bang-motion/tree/main/docs/gallery) melalui [`references/gallery.md`](skills/motionforge/references/gallery.md). Kategori yang tersedia meliputi Grainy Gradient, Kinetic Colorblock, SaaS UI Tour, Flat Vector, Continuous Action, Cartoon Stage, Flat Pop with Photos, White Catalog, Visual Journalism, Vintage Sketch, Cartoon Collage, dan More Combinations. Contoh dipakai sebagai prinsip visual dan menu pilihan, bukan untuk menyalin layout atau adegan.
+
 ## Contoh penggunaan
 
 ```text

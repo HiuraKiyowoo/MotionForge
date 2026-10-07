@@ -3,8 +3,6 @@ name: motionforge
 description: "Cinematic web motion graphics for promos, openers, explainers, kinetic typography, product demos, UI showcases, and visual storytelling. Use when an animation should feel like a video rather than a slide deck."
 license: MIT
 metadata:
-  author: Bang Tutorial
-  author_url: https://youtube.com/bangtutorial
   version: "2.0.0"
   homepage: https://github.com/HiuraKiyowoo/MotionForge
 ---
@@ -27,7 +25,7 @@ Use a modern browser and CDN assets for viewing. Node/Puppeteer and FFmpeg are o
 4. **Keep typography alive and restrained.** For openers use one short sentence and at most one main object per scene; avoid default kicker + subtitle + body + badges. In explainers, use at most two text levels per moment and turn facts into visual actions.
 5. **Make motion deterministic.** Drive all animation from the GSAP timeline clock (`tl.time()` or timeline progress). Do not use `Date.now()`, frame-accumulated velocity, or uncontrolled `Math.random()`. A frame rendered twice must be identical.
 6. **Keep the world readable.** Make the camera serve the story, vary shot scale and viewpoint with motivation, and keep text legible on a 1080-wide phone stage (body ≥44px, labels ≥34px, credits ≥30px unless the brief requires otherwise).
-7. **Respect asset rights.** Use user assets, generated assets, or licensed stock. Do not copy a reference gallery's text, palette, exact composition, scene order, characters, crop, or signature moment. Keep attribution for Bang Motion/Bang Tutorial.
+7. **Respect asset rights.** Use user assets, generated assets, or licensed stock. Do not copy a reference gallery's text, palette, exact composition, scene order, characters, crop, or signature moment.
 
 ## Workflow
 
